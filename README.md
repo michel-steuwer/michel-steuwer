@@ -1,6 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Michel-Steuwer&count_private=true&include_all_commits=true"/>
 
-# Michel Steuwer ([he/him](http://pronoun.is/he))
+# [Michel Steuwer](https://michel.steuwer.info) ([he/him](http://pronoun.is/he))
 
 I am a lecturer (assistant professor) in compilers and runtime systems in the [School of Informatics](https://www.ed.ac.uk/informatics/) at the [University of Edinburgh](https://www.ed.ac.uk/) in Scotland. I am a member of the [Compiler and Architecture Design Group (CArD)](http://www.icsa.inf.ed.ac.uk/compilers/), the [Institute for Computing Systems Architecture (ICSA)](http://web.inf.ed.ac.uk/icsa/), and a honorary member of staff at the [School of Computing Science at the University of Glasgow](https://www.gla.ac.uk/schools/computing/).
 
