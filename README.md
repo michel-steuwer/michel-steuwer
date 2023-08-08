@@ -2,7 +2,7 @@
 
 # [Michel Steuwer](https://michel.steuwer.info) ([he/him](http://pronoun.is/he))
 
-I am a professor leading the Chair in Compilers and Programming Languages at [Technische Universität Berlin](https://www.tu.berlin).
+I am a professor leading the Chair of Compilers and Programming Languages at [Technische Universität Berlin](https://www.tu.berlin).
 
 Before joining TU Berlin, I was a lecturer at the [University of Edinburgh](http://www.ed.ac.uk/), the [University of Glasgow](https://www.gla.ac.uk/). Prior to that I was a postdoctoral researcher at the [School of Informatics](http://www.inf.ed.ac.uk/) at the [University of Edinburgh](http://www.ed.ac.uk/). I received my PhD from the [University of Münster](http://www.wwu.de/en) in Germany.
 
